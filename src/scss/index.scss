@@ -20,3 +20,10 @@
 .profile-image {
   max-width: 50px;
 }
+
+#searchPost::placeholder,
+#newPostTitle::placeholder,
+#newPostKeywords::placeholder,
+#newPostStory::placeholder {
+  color: #ffffffbb;
+}
