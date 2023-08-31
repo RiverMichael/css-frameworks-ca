@@ -8,7 +8,7 @@
   </a>
 
 <h3>CSS Frameworks - Xplor</h3>
-<p>A social media application built with bootstrap and Sass</p>
+<p>A social media application built with Bootstrap and Sass</p>
 
 <!-- [Link to live site][live-site] -  -->
 
