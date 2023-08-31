@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/RiverMichael/project-exam-1-RiverMichael.git">
-    <img src="images/logo/logo-light.png" alt="Logo" width="300" height="">
+    <img src="images/logo/xplor_logo_readme.jpg" alt="Logo" width="300" height="">
   </a>
 
 <h3>CSS Frameworks - Xplor</h3>
@@ -141,7 +141,8 @@ Michael "River" Nilsson - [mrn@michaelriver.dev](mailto:mrn@michaelriver.dev) - 
 ## Acknowledgments
 
 - [Bootstrap](getbootstrap.com)
-- [Sass](https://sass-lang.com/)
+- [Sass](https://sass-lang.com)
+- [Noroff](https://www.noroff.no)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
