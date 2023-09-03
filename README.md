@@ -100,10 +100,10 @@ cd name-of-the-project-folder
 npm i
 ```
 
-5. Start watch and live-server to view the project live
+5. Start the project, this will run the watch script and start up a live-server
 
 ```sh
-npm run watch
+npm start
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
